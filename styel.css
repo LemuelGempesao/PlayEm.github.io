@@ -71,7 +71,7 @@ body{
     width: 180px;
     height: 180px;
     border-radius: 50% ;
-    box-shadow: 0 0 10px 5px black;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.548);
     animation: glow .3s linear infinite;
     font-weight: 600;
     
@@ -110,14 +110,14 @@ body{
 
     background:linear-gradient(to bottom left, rgb(9, 48, 66), rgb(123,45,4));
     border:1px solid rgb(54, 15, 1);
-    box-shadow: 50px 0 34px black;
+    box-shadow: 50px 0 34px rgba(0, 0, 0, 0.527);
     z-index: 1000;
 }
 .g2{
 
     background:linear-gradient(to  bottom left, rgb(9, 48, 66), rgb(123,45,4));
     border:1px solid rgb(54, 15, 1);
-    box-shadow: -50px 0 34px black;
+    box-shadow: -50px 0 34px rgba(0, 0, 0, 0.562);
 }
 
 .g1 a, .g2 a{
